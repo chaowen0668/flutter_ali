@@ -18,7 +18,8 @@ dev_dependencies:
     sdk: flutter
 
   flutter_alibc:
-    path: ../
+    git: git@e.coding.net:chaowen/flutter_alibc.git
+    
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
